@@ -4,8 +4,7 @@ A full-stack application for visualizing and tracking the outputs of a multi-age
 
 ## Project Description
 
-This project provides a comprehensive solution for monitoring and understanding AI agent workflows. It features a **Streamlit** frontend for user interaction and a **FastAPI** backend that manages the core agent logic. The application captures and timestamps all agent outputs, presenting them in a clear, chronological timeline. It leverages the **Llama 3** model to power multiple specialized AI agents that collaborate to complete tasks. Users can run these agents and observe their collaboration in real-time, making it an ideal tool for debugging and analyzing multi-agent systems.
-
+This project provides a comprehensive solution for monitoring and understanding AI agent workflows. It features a Streamlit frontend 🖥️ for user interaction and a FastAPI backend that manages the core agent logic. The application captures and timestamps all agent outputs, presenting them in a clear, chronological timeline. It leverages the Llama 3 model to power multiple specialized AI agents that collaborate to complete tasks. Users can run these agents and observe their collaboration in real-time, making it an ideal tool for debugging and analyzing multi-agent systems.
 ## 🚀Features
 
 * **Interactive Timeline⏳**: A dynamic, chronological view of agent responses.

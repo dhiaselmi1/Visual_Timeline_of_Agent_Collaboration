@@ -6,17 +6,17 @@ A full-stack application for visualizing and tracking the outputs of a multi-age
 
 This project provides a comprehensive solution for monitoring and understanding AI agent workflows. It features a **Streamlit** frontend for user interaction and a **FastAPI** backend that manages the core agent logic. The application captures and timestamps all agent outputs, presenting them in a clear, chronological timeline. It leverages the **Llama 3** model to power multiple specialized AI agents that collaborate to complete tasks. Users can run these agents and observe their collaboration in real-time, making it an ideal tool for debugging and analyzing multi-agent systems.
 
-## Features
+## 🚀Features
 
-* **Interactive Timeline**: A dynamic, chronological view of agent responses.
-* **Agent Grouping**: Organizes and displays interactions by agent and topic.
-* **Specialized AI Agents**: Utilizes Llama 3 to power multiple agents, each with a unique role:
-    * **Research Agent**: Finds factual answers and gathers context.
-    * **Summarizer Agent**: Condenses raw text into concise bullet points.
-    * **Devil's Advocate Agent**: Challenges assumptions and raises counterpoints.
-    * **Insight Agent**: Extracts actionable takeaways from conversation history.
-* **PDF Export**: Generate a shareable PDF report of the entire timeline.
-* **Modular Agent Architecture**: Easily add new specialized agents to the backend.
+* **Interactive Timeline⏳**: A dynamic, chronological view of agent responses.
+* **Agent Grouping 🤝**: Organizes and displays interactions by agent and topic.
+* **Specialized AI Agents 🧠**: Utilizes Llama 3 to power multiple agents, each with a unique role:
+    * **Research Agent 🔬**: Finds factual answers and gathers context.
+    * **Summarizer Agent 📝**: Condenses raw text into concise bullet points.
+    * **Devil's Advocate Agent😈**: Challenges assumptions and raises counterpoints.
+    * **Insight Agent💡**: Extracts actionable takeaways from conversation history.
+* **PDF Export📄**: Generate a shareable PDF report of the entire timeline.
+* **Modular Agent Architecture🧱**: Easily add new specialized agents to the backend.
 
 ## Technologies
 
@@ -30,7 +30,7 @@ This project provides a comprehensive solution for monitoring and understanding 
 * `Requests`: For communication between the frontend and backend.
 * `Python`
 ---
-## Project Structure
+## 📂Project Structure
 
 
 ```

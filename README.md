@@ -18,7 +18,7 @@ This project provides a comprehensive solution for monitoring and understanding 
 * **PDF Export📄**: Generate a shareable PDF report of the entire timeline.
 * **Modular Agent Architecture🧱**: Easily add new specialized agents to the backend.
 
-## Technologies
+## 🧩Technologies
 
 **Frontend:**
 * `Streamlit`: For building the interactive web application.
@@ -51,7 +51,7 @@ agent_timeline/
 ```
 
 ---
-## Setup and Installation
+## ⚙️Setup and Installation
 
 ### Prerequisites
 
@@ -96,7 +96,7 @@ agent_timeline/
     ```
     The frontend will open in your browser, running on `http://localhost:8501`.
 
-## Usage
+## 🖥️Usage
 
 1.  Ensure both the backend and frontend servers are running.
 2.  In the Streamlit app, enter a topic and a research query in the sidebar.
